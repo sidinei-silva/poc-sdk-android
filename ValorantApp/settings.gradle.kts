@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Valorant App"
 include(":app")
+include(":sdk")
