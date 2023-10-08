@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "Valorant App"
 include(":app")
 include(":sdk")
+include(":features:feature_navigation")
